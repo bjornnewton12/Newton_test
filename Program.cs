@@ -2,3 +2,5 @@
 Console.WriteLine("Vad heter du? ");
 string namn = Console.ReadLine();
 Console.WriteLine($"Hej {namn}");
+
+Console.WriteLine("f");
