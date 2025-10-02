@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Vad heter du? ");
-string namn = Console.ReadLine();
+var namn = Console.ReadLine();
 Console.WriteLine($"Hej {namn}");
 
 Console.WriteLine($"Hej {namn}");
